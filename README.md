@@ -4,7 +4,7 @@ HADotNet is a simple, straighforward .NET Standard library for the [Home Assista
 
 **Dependencies**
 
-This library depends on JSON.Net, a modified version can be installed via the [Asset store](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347).
+This library depends on JSON.Net, a modified version can be installed from the [Asset store](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347).
 
 **Usage**
 
