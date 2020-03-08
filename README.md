@@ -2,7 +2,7 @@ A port of the [HADotNet](https://github.com/qJake/HADotNet/) library for [Unity]
 
 HADotNet is a simple, straighforward .NET Standard library for the [Home Assistant](https://github.com/home-assistant/home-assistant) API.
 
-** Dependencies **
+**Dependencies**
 
 This library depends on JSON.Net, a modified version can be installed via the [Asset store](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347).
 
